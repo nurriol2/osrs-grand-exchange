@@ -11,7 +11,6 @@ osrsbox = "*"
 
 [dev-packages]
 pytest = "*"
-lxml = "*"
 
 [requires]
 python_version = "3.6"
