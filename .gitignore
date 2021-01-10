@@ -130,3 +130,6 @@ dmypy.json
 
 # macosx
 .DS_Store
+
+# Environment Variables
+.env
