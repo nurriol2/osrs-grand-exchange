@@ -9,9 +9,11 @@ matplotlib = "*"
 pandas = "*"
 osrsbox = "*"
 pymongo = "*"
+dnspython = "*"
 
 [dev-packages]
 pytest = "*"
+python-dotenv = "*"
 
 [requires]
 python_version = "3.6"
