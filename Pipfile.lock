@@ -173,11 +173,11 @@
         },
         "osrsbox": {
             "hashes": [
-                "sha256:e51fd130fca9267c2fdb3ef379f480838b792b1ecb5e32498c492420d806cbcb",
-                "sha256:e7b1ecf953ca9c10718934fb1e2ee4b6ae61651b2d981bca17262d19407b792c"
+                "sha256:0d86764e43c1cc0b69561337efe5fa912d985f88f3bf727c98ee48f6bcad132f",
+                "sha256:d2fd9f0d1580f6ef2a3c5ba4f8d9801805b96d06ba739f259421428260fcca44"
             ],
             "index": "pypi",
-            "version": "==2.0.1"
+            "version": "==2.0.2"
         },
         "pandas": {
             "hashes": [
@@ -361,7 +361,7 @@
                 "sha256:19188f96923873c92ccb987120ec4acaa12f0461fa9ce5d3d0772bc965a39e08",
                 "sha256:d8ff90d979214d7b4f8ce956e80f4028fc6860e4431f731ea4a8c08f23f99473"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4' and python_version < '4.0'",
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4' and python_version < '4'",
             "version": "==1.26.2"
         }
     },
